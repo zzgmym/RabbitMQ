@@ -1,0 +1,11 @@
+spring:
+  profiles:
+    active: xdm
+
+logging:
+  level:
+    org: ERROR
+
+tutorial:
+  client:
+    duration: 10000
